@@ -1,4 +1,4 @@
-100% completed
+100% completed (not tested)
 
 Tutorial:
 1. Download code
